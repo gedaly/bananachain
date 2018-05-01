@@ -1,5 +1,5 @@
 # Ignore
 
 # Reference Files
-site/ref/
-site/ref/*
+ref/
+ref/*
