@@ -3,3 +3,5 @@
 # Reference Files
 ref/
 ref/*
+.idea/
+.idea/*
