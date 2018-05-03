@@ -16,5 +16,5 @@
     ],
 
      "icons":
-         { "16": "bananachain-16.png", "128": "bananachain-128.png" }
+         { "16": "bananachain16.png", "128": "bananachain128.png" }
 }
