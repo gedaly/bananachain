@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "BananaChain",
-    "description": "Replaces all mentions of blockchain with banana. It's funnier, and an excellent source of potassium.",
+    "description": "Replaces all mentions of blockchain with banana. Because it's funnier and an better source of potassium.",
     "version": "1.0",
     "content_scripts": [
         {
